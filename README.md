@@ -67,7 +67,7 @@ and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+
 
 **Prerequisites**
 
@@ -77,20 +77,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/healthcare.git
-cd healthcare
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
 
 **Set Up Environment Variables**
 
@@ -111,11 +97,7 @@ NEXT_PUBLIC_ADMIN_PASSKEY=111111
 
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite website](https://appwrite.io/).
 
-**Running the Project**
 
-```bash
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
