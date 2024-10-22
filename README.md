@@ -971,4 +971,15 @@ Public assets used in the project can be found [here](https://drive.google.com/f
 
 
 #
-# carepulse-
+# carepulse- DEPENDENCIES
+CarePulse uses a variety of modern web technologies and libraries, including but not limited to:
+
+Next.js for the React framework.
+React for building user interfaces.
+Tailwind CSS for styling.
+Appwrite for backend and database management.
+Radix UI for accessible UI components.
+React Hook Form for form management.
+Zod for schema validation.
+TypeScript for static type checking.
+For a complete list of dependencies, please take a look at the package.json file.
