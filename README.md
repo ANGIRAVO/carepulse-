@@ -41,7 +41,7 @@ A healthcare patient management application that allows patients to easily regis
 - Typescript
 - TailwindCSS
 - ShadCN
-- Twilio
+  
 
 ## <a name="features">🔋 Features</a>
 
@@ -55,8 +55,6 @@ A healthcare patient management application that allows patients to easily regis
 
 👉 **Cancel Appointment from Admin Side**: Administrators have the ability to cancel any appointment as needed.
 
-👉 **Send SMS on Appointment Confirmation**: Patients receive SMS notifications to confirm their appointment details.
-
 👉 **Complete Responsiveness**: The application works seamlessly on all device types and screen sizes.
 
 👉 **File Upload Using Appwrite Storage**: Users can upload and store files securely within the app using Appwrite storage services.
@@ -64,6 +62,8 @@ A healthcare patient management application that allows patients to easily regis
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
 and many more, including code architecture and reusability
+
+
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
