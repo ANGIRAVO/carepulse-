@@ -972,7 +972,8 @@ Public assets used in the project can be found [here](https://drive.google.com/f
 
 #
 # carepulse- 
-DEPENDENCIES
+DEPENDENCIES🔌
+
 CarePulse uses a variety of modern web technologies and libraries, including but not limited to:
 
 Next.js for the React framework.
