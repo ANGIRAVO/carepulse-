@@ -71,6 +71,7 @@ flowchart TD
     User --> FE
     FE --> BE
     BE --> DB & Razorpay & Cloudinary
+```
 
 
 ## <a name="features">🔋 Features</a>
