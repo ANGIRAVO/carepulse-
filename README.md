@@ -43,9 +43,32 @@ A healthcare patient management application that allows patients to easily regis
 - ShadCN
 
   ## 🧩 System Architecture
-  ![CarePulse Architecture]([./assets![Uploading Untitled diagram _ Mermaid Chart-2025-07-21-095428.png…](https://github.com/ANGIRAVO/carepulse-/blob/main/public/assets/images/Carepulse%20architecture%20diagram%20_%20Mermaid%20Chart-2025-07-21-102514.png)]()
-)
-  
+  ---
+config:
+  layout: fixed
+  theme: dark
+---
+flowchart TD
+ subgraph subGraph0["User Side"]
+        User["🧑 User Browser"]
+  end
+ subgraph Frontend["Frontend"]
+        FE["⚛️ Next.js App"]
+  end
+ subgraph Backend["Backend"]
+        BE["🔧 Node.js + Express.js Server"]
+  end
+ subgraph Database["Database"]
+        DB[("🗄️ MongoDB + Mongoose")]
+  end
+ subgraph subGraph4["External Services"]
+        Razorpay["💳 Razorpay Payments"]
+        Cloudinary["☁️ Cloudinary Media Storage"]
+  end
+    User --> FE
+    FE --> BE
+    BE --> DB & Razorpay & Cloudinary
+
 
 ## <a name="features">🔋 Features</a>
 
