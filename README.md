@@ -43,31 +43,7 @@ A healthcare patient management application that allows patients to easily regis
 - ShadCN
 
   ## 🧩 System Architecture
-  ---
-config:
-  layout: fixed
-  theme: dark
----
-flowchart TD
- subgraph subGraph0["User Side"]
-        User["🧑 User Browser"]
-  end
- subgraph Frontend["Frontend"]
-        FE["⚛️ Next.js App"]
-  end
- subgraph Backend["Backend"]
-        BE["🔧 Node.js + Express.js Server"]
-  end
- subgraph Database["Database"]
-        DB[("🗄️ MongoDB + Mongoose")]
-  end
- subgraph subGraph4["External Services"]
-        Razorpay["💳 Razorpay Payments"]
-        Cloudinary["☁️ Cloudinary Media Storage"]
-  end
-    User --> FE
-    FE --> BE
-    BE --> DB & Razorpay & Cloudinary
+👉 [Click here for Interactive Mermaid Diagram](https://www.mermaidchart.com/app/projects/035c79fe-2139-4533-a0b8-06806ebd3b2f/diagrams/556505d7-7409-46d1-9a0f-81c33f802f06/version/v0.1/edit)
 
 
 ## <a name="features">🔋 Features</a>
