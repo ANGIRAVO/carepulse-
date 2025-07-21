@@ -41,6 +41,10 @@ A healthcare patient management application that allows patients to easily regis
 - Typescript
 - TailwindCSS
 - ShadCN
+
+  ## 🧩 System Architecture
+  ![CarePulse Architecture](./assets![Uploading Untitled diagram _ Mermaid Chart-2025-07-21-095428.png…]()
+)
   
 
 ## <a name="features">🔋 Features</a>
