@@ -43,7 +43,7 @@ A healthcare patient management application that allows patients to easily regis
 - ShadCN
 
   ## 🧩 System Architecture
-  ![CarePulse Architecture](./assets![Uploading Untitled diagram _ Mermaid Chart-2025-07-21-095428.png…]()
+  ![CarePulse Architecture]([./assets![Uploading Untitled diagram _ Mermaid Chart-2025-07-21-095428.png…](https://github.com/ANGIRAVO/carepulse-/blob/main/public/assets/images/Carepulse%20architecture%20diagram%20_%20Mermaid%20Chart-2025-07-21-102514.png)]()
 )
   
 
